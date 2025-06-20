@@ -6,7 +6,6 @@ Prototype crypto trading alert app supporting flexible, user-defined strategies.
 - Select Moving Average (MA) indicators with multi-MA selection UI
 - Prebuilt alert conditions like MA crossovers
 - Timeframe and crypto (BTC, ETH) support
-- Simple, fun, and unorthodox design aesthetic
 
 ---
 
