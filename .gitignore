@@ -1,0 +1,49 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# --------------------
+# macOS
+# --------------------
+.DS_Store
+
+# --------------------
+# Windows
+# --------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# Streamlit app cache
+.cache/
+.streamlit/cache/
+**/__pycache__/
+
+# --------------------
+# VSCode (optional)
+# --------------------
+.vscode/
